@@ -94,6 +94,4 @@ PyAudio
 
 Gummalla Alekya
 
-B.Tech Computer Science Engineering Student
-Cloud & DevOps Enthusiast
-
+B.Tech CSE Student | AWS & DevOps Enthusiast
